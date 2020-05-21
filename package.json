@@ -19,5 +19,8 @@
   "homepage": "https://github.com/naoya7076/typescript-for-javascript-developers#readme",
   "devDependencies": {
     "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "ts-node": "^8.10.1"
   }
 }
